@@ -60,13 +60,17 @@ Sempre lembrar: a responsabilidade pela classificação NCM é do contribuinte �
 
 ## Passo 4 — PIS/COFINS
 
-Regime padrão pra Lucro Real: **não-cumulativo**, CST 01, PIS 1,65% + COFINS 7,6% (9,25% combinado).
+Regime padrão pra Lucro Real: **não-cumulativo**, CST 01 na saída, PIS 1,65% + COFINS 7,6% (9,25% combinado). Ver `references/cst-pis-cofins-oficial.md` pro catálogo completo dos códigos CST-PIS/CST-COFINS (tabela oficial do Ministério da Fazenda — o mesmo código vale pras duas contribuições).
 
-Antes de aplicar o padrão, checar se o NCM tem lei federal específica de alíquota zero ou redução. Exceções já confirmadas (ver `references/tabela-produtos.md` pro detalhe de cada uma):
-- **Café** (NCM 09.01 e 2101.1 inteiro, qualquer subcódigo) — alíquota zero pela Lei 10.925/2004, art. 1º, XXI (CST 06).
-- **Açúcar cristal/refinado e mascavo** (NCM 1701.14.00 e 1701.99.00) — alíquota zero pela Lei 12.839/2013, que alterou o art. 1º da Lei 10.925/2004 (CST 06).
+**Não é só padrão-vs-exceção — checar antes qual desses 3 ramos se aplica:**
+1. **Alíquota zero por lei federal específica sobre o produto** (CST 06 saída) — exceções já confirmadas (ver `references/tabela-produtos.md` pro detalhe de cada uma):
+   - **Café** (NCM 09.01 e 2101.1 inteiro, qualquer subcódigo) — Lei 10.925/2004, art. 1º, XXI.
+   - **Açúcar cristal/refinado e mascavo** (NCM 1701.14.00 e 1701.99.00) — Lei 12.839/2013, que alterou o art. 1º da Lei 10.925/2004.
+   - Pra NCM fora dessa lista curta, buscar `"alíquota zero" PIS COFINS NCM <código ou capítulo> Lei 10.925` antes de assumir que não há previsão.
+2. **Monofásico (CST 04 saída)** — regime de tributação concentrada numa etapa da cadeia (refinaria/distribuidora recolhe antes), típico de **combustíveis** (gasolina, etanol, diesel). Relevante pro posto de combustível, não só pra conveniência — cada combustível tem lei federal própria definindo a monofasia; **não confundir com CST 06**, são fundamentos legais diferentes mesmo ambos dando alíquota zero na revenda.
+3. **Substituição tributária (CST 05 saída)** — existe uma lista de produtos com PIS/COFINS-ST, mais restrita que ICMS-ST. **Ainda não mapeamos quais NCMs do catálogo caem aqui — pendente de pesquisa**, sinalizar isso ao usuário se a classificação de um produto for genuinamente incerta entre padrão e ST.
 
-Pra NCM fora dessa lista curta, buscar `"alíquota zero" PIS COFINS NCM <código ou capítulo> Lei 10.925` pra checar se há previsão parecida antes de assumir o padrão.
+Se o produto não se encaixar claramente em nenhum dos 3 ramos, aplicar o padrão (CST 01) mas avisar que não foi feita checagem exaustiva de todas as leis federais possíveis — recomendar confirmação com o contador em caso de dúvida genuína, sobretudo pra produtos de combustível/derivados.
 
 **Depois de decidir o CST/alíquota (padrão ou exceção), traduzir pro código que a funcionária seleciona no webPosto** usando `references/tabela-tributos-pis-cofins-webposto.csv` — é a tabela de "Referência" (26 combinações válidas de CST/alíquota entrada e saída) do dropdown de PIS/COFINS do ERP, no mesmo espírito da tabela cBenef pro ICMS. Ex.: padrão não-cumulativo saída = CST 01, 1,65%/7,6% → referência `0000000002` ou `0000000008` (checar entrada correspondente); alíquota zero (café/açúcar) = CST 06 saída, 0% → referência `0000000006`, `0000000017`, `0000000007` ou `0000000025` (diferem pelo CST de entrada).
 
