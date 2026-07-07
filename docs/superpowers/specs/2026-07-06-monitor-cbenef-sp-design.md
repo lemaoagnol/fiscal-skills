@@ -58,3 +58,14 @@ Depois de criar/atualizar a rotina, executar uma vez manualmente (`RemoteTrigger
 - Não baixa/commita o PDF oficial em si — só o nome/versão como marcador de texto.
 - Não resume o que mudou dentro da tabela — só avisa que a versão mudou, o usuário confere o conteúdo manualmente.
 - Não roda localmente nem depende do PC do usuário estar ligado.
+
+## ❌ Abandonado (2026-07-07) — arquitetura de cloud routine não é viável
+
+Depois de corrigir `curl`→`WebFetch` (ver revisão acima), uma segunda validação real encontrou **dois bloqueios adicionais que inviabilizam essa arquitetura**, não corrigíveis por configuração da rotina em si:
+
+1. **A própria SEFAZ-SP retornou HTTP 403 pro `WebFetch`** — não é mais bloqueio de rede do sandbox, é o site do governo rejeitando a requisição (provável bloqueio a IPs/bots de infraestrutura de nuvem). Sem controle sobre isso.
+2. **A integração git usada pela cloud routine é somente-leitura** no repositório `fiscal-skills` — `git push` falhou com 403, e uma tentativa alternativa via API do GitHub confirmou `"403 Resource not accessible by integration"`. O commit local ficou preso no container efêmero da execução e foi perdido ao reciclar. Corrigir isso exigiria conceder permissão de escrita (`contents: write`) ao GitHub App conectado ao Claude Code — fora do alcance da API `RemoteTrigger`, e o usuário optou por não seguir esse caminho.
+
+**Decisão:** a rotina (`trig_017TvJ5LM6SXX31TvgkpcSBw`, nome `monitor-cbenef-sp`) foi **desabilitada** (`enabled: false`), não deletada (a API não permite deleção — só via `claude.ai/code/routines`). A checagem mensal do cBenef-SP passa a ser planejada como feature **dentro do app TributAi** (projeto `consulta-fiscal`), que roda localmente no PC do usuário sem as restrições de rede/permissão do sandbox de nuvem. Ver plano de integração em `docs/superpowers/plans/` do projeto `consulta-fiscal`.
+
+**Lição para desenhos futuros com cloud routines:** não assumir acesso de rede irrestrito nem permissão de escrita em git só porque o repo foi passado como `git_repository` source — validar ambos com uma execução real antes de desenhar o fluxo em torno deles.

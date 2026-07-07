@@ -1,3 +1,5 @@
+> **⚠️ ABANDONADO (2026-07-07):** esta arquitetura (cloud routine) esbarrou em bloqueios de plataforma não contornáveis — ver seção "❌ Abandonado" na spec (`docs/superpowers/specs/2026-07-06-monitor-cbenef-sp-design.md`). A rotina criada foi desabilitada. Não executar este plano — a funcionalidade foi replanejada como feature local do app TributAi.
+
 # Monitoramento automático cBenef-SP Implementation Plan
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
