@@ -62,7 +62,13 @@ Sempre lembrar: a responsabilidade pela classificação NCM é do contribuinte �
 
 Regime padrão pra Lucro Real: **não-cumulativo**, CST 01, PIS 1,65% + COFINS 7,6% (9,25% combinado).
 
-Antes de aplicar o padrão, checar se o NCM tem lei federal específica de alíquota zero ou redução — exemplo confirmado: café (NCM 09.01 e 2101.1 inteiro, qualquer subcódigo) tem alíquota zero de PIS/COFINS pela Lei 10.925/2004, art. 1º, XXI (CST 06). Buscar `"alíquota zero" PIS COFINS NCM <código ou capítulo> Lei 10.925` pra checar se o produto em questão tem previsão parecida.
+Antes de aplicar o padrão, checar se o NCM tem lei federal específica de alíquota zero ou redução. Exceções já confirmadas (ver `references/tabela-produtos.md` pro detalhe de cada uma):
+- **Café** (NCM 09.01 e 2101.1 inteiro, qualquer subcódigo) — alíquota zero pela Lei 10.925/2004, art. 1º, XXI (CST 06).
+- **Açúcar cristal/refinado e mascavo** (NCM 1701.14.00 e 1701.99.00) — alíquota zero pela Lei 12.839/2013, que alterou o art. 1º da Lei 10.925/2004 (CST 06).
+
+Pra NCM fora dessa lista curta, buscar `"alíquota zero" PIS COFINS NCM <código ou capítulo> Lei 10.925` pra checar se há previsão parecida antes de assumir o padrão.
+
+**Depois de decidir o CST/alíquota (padrão ou exceção), traduzir pro código que a funcionária seleciona no webPosto** usando `references/tabela-tributos-pis-cofins-webposto.csv` — é a tabela de "Referência" (26 combinações válidas de CST/alíquota entrada e saída) do dropdown de PIS/COFINS do ERP, no mesmo espírito da tabela cBenef pro ICMS. Ex.: padrão não-cumulativo saída = CST 01, 1,65%/7,6% → referência `0000000002` ou `0000000008` (checar entrada correspondente); alíquota zero (café/açúcar) = CST 06 saída, 0% → referência `0000000006`, `0000000017`, `0000000007` ou `0000000025` (diferem pelo CST de entrada).
 
 ## Passo 5 — Apresentar no formato padrão (tabela)
 
