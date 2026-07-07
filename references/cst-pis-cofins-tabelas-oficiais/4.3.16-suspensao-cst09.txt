@@ -1,0 +1,671 @@
+
+
+4.3.16 - Tabela Operações com Suspensão da Contribuição Social (CST 09) -
+Atualizada em 28/04/2026:
+
+|Código |Descrição do Produto                              |NCM              |Início de |Término de|
+|       |                                                  |                 |Escrituraç|Escrituraç|
+|       |                                                  |                 |ão        |ão        |
+|       |                                                  |                 |Mês/Ano   |Mês/Ano   |
+|100    |MATÉRIAS-PRIMAS, PRODUTOS INTERMEDIÁRIOS E        |                 |          |          |
+|       |MATERIAIS DE EMBALAGEM                            |                 |          |          |
+|101    |Vendas a pessoa jurídica preponderantemente       |-                |01/2011   |          |
+|       |exportadora                                       |                 |          |          |
+|102    |Vendas a fabricante de veículos e carros blindados|-                |01/2011   |          |
+|       |de combate, (NCM 8710.00.00) para uso pelas forças|                 |          |          |
+|       |armadas ou órgãos de segurança pública            |                 |          |          |
+|       |brasileiros.                                      |                 |          |          |
+|103    |Aquisição no mercado interno ou a importação, de  |-                |01/2011   |          |
+|       |forma combinada ou não, de mercadoria para emprego|                 |          |          |
+|       |ou consumo na industrialização de produto a ser   |                 |          |          |
+|       |exportado, por pessoa jurídica previamente        |                 |          |          |
+|       |habilitada pela Secretaria de Comércio Exterior   |                 |          |          |
+|       |(Drawback Integrado)                              |                 |          |          |
+|104    |Aquisição no mercado interno ou à importação de   |-                |01/2011   |          |
+|       |mercadorias para emprego em reparo, criação,      |                 |          |          |
+|       |cultivo ou atividade extrativista de produto a ser|                 |          |          |
+|       |exportado.                                        |                 |          |          |
+|105    |Aquisição no mercado interno ou importações de    |-                |01/2011   |          |
+|       |empresas denominadas fabricantes-intermediários,  |                 |          |          |
+|       |para industrialização de produto intermediário a  |                 |          |          |
+|       |ser diretamente fornecido a empresas              |                 |          |          |
+|       |industriais-exportadoras, para emprego ou consumo |                 |          |          |
+|       |na industrialização de produto final destinado à  |                 |          |          |
+|       |exportação (Drawback Intermediário)               |                 |          |          |
+|106    | A aquisição no mercado interno ou a importação,  |-                |01/2023   |          |
+|       |de forma combinada ou não, de serviço direta e    |                 |          |          |
+|       |exclusivamente vinculado à exportação ou entrega  |                 |          |          |
+|       |no exterior de produto resultante da utilização do|                 |          |          |
+|       |regime de que trata o art. 12 desta Lei           |                 |          |          |
+|       |11.945/2009.                                      |                 |          |          |
+|200    |AGROINDUSTRIA                                     |                 |          |          |
+|201    |Insumos de origem animal, utilizados na fabricação|-                |01/2011   |31/12/2011|
+|       |de produtos destinados à alimentação humana ou    |                 |          |          |
+|       |animal, classificados na NCM capítulos 2 (exceto  |                 |          |          |
+|       |os códigos 02.01, 02.02, 02.03, 0206.10.00,       |                 |          |          |
+|       |0206.20, 0206.21, 0206.29, 0206.30.00, 0206.4,    |                 |          |          |
+|       |02.07, 0210.1), 3 (exceto os produtos vivos desse |                 |          |          |
+|       |capítulo), 4, 8 a 12, 15 (exceto o código         |                 |          |          |
+|       |1502.00.1), 16 e 23 (exceto o código 23.09.90) e  |                 |          |          |
+|       |nos códigos 0504.00, 0701.90.00, 0702.00.00,      |                 |          |          |
+|       |0706.10.00, 07.08, 0709.90, 07.10, 07.12 a 07.14  |                 |          |          |
+|       |(exceto os códigos 0713.33.19, 0713.33.29 e       |                 |          |          |
+|       |0713.33.99), 1701.11.00, 1701.99.00, 1702.90.00,  |                 |          |          |
+|       |18.01, 18.03, 1804.00.00, 1805.00.00, 20.09,      |                 |          |          |
+|       |2101.11.10 e 2209.00.00.                          |                 |          |          |
+|201    |Insumos de origem animal, utilizados na fabricação|-                |01/2012   |          |
+|       |de produtos destinados à alimentação humana ou    |                 |          |          |
+|       |animal, classificados na NCM capítulos 2 (exceto  |                 |          |          |
+|       |os códigos 02.01, 02.02, 02.03, 0206.10.00,       |                 |          |          |
+|       |0206.20, 0206.21, 0206.29, 0206.30.00, 0206.4,    |                 |          |          |
+|       |02.07, 0210.1), 3 (exceto os produtos vivos desse |                 |          |          |
+|       |capítulo), 4, 8 a 12, 15 (exceto o código 0901.1, |                 |          |          |
+|       |1502.00.1), 16 e 23 (exceto as preparações dos    |                 |          |          |
+|       |tipos utilizados na alimentação de animais vivos  |                 |          |          |
+|       |classificados nas posições 01.03 e 01.05,         |                 |          |          |
+|       |classificadas no código 2309.90) e nos códigos    |                 |          |          |
+|       |0504.00, 0701.90.00, 0702.00.00, 0706.10.00,      |                 |          |          |
+|       |07.08, 0709.90, 07.10, 07.12 a 07.14 (exceto os   |                 |          |          |
+|       |códigos 0713.33.19, 0713.33.29 e 0713.33.99),     |                 |          |          |
+|       |1701.11.00, 1701.99.00, 1702.90.00, 18.01, 18.03, |                 |          |          |
+|       |1804.00.00, 1805.00.00, 20.09 e 2209.00.00.       |                 |          |          |
+|202    |Insumos de origem vegetal, utilizados na          |-                |01/2011   |31/12/2011|
+|       |fabricação de produtos destinados à alimentação   |                 |          |          |
+|       |humana ou animal, classificados na NCM capítulos 2|                 |          |          |
+|       |(exceto os códigos 02.01, 02.02, 02.03,           |                 |          |          |
+|       |0206.10.00, 0206.20, 0206.21, 0206.29, 0206.30.00,|                 |          |          |
+|       |0206.4, 02.07, 0210.1), 3 (exceto os produtos     |                 |          |          |
+|       |vivos desse capítulo), 4, 8 a 12 e 15 (exceto o   |                 |          |          |
+|       |código 1502.00.1), 16 e 23 (exceto no código      |                 |          |          |
+|       |23.09.90) e nos códigos                           |                 |          |          |
+|       |0504.00, 0701.90.00, 0702.00.00, 0706.10.00,      |                 |          |          |
+|       |07.08, 0709.90, 07.10, 07.12 a 07.14 (exceto os   |                 |          |          |
+|       |códigos 0713.33.19, 0713.33.29 e 0713.33.99),     |                 |          |          |
+|       |1701.11.00, 1701.99.00, 1702.90.00, 18.01, 18.03, |                 |          |          |
+|       |1804.00.00, 1805.00.00, 20.09, 2101.11.10 e       |                 |          |          |
+|       |2209.00.00.                                       |                 |          |          |
+|202    |Insumos de origem vegetal, utilizados na          |-                |01/2012   |09/10/2013|
+|       |fabricação de produtos destinados à alimentação   |                 |          |          |
+|       |humana ou animal, classificados na NCM capítulos 2|                 |          |          |
+|       |(exceto os códigos 02.01, 02.02, 02.03,           |                 |          |          |
+|       |0206.10.00, 0206.20, 0206.21, 0206.29, 0206.30.00,|                 |          |          |
+|       |0206.4, 02.07, 0210.1), 3 (exceto os produtos     |                 |          |          |
+|       |vivos desse capítulo), 4, 8 a 12, 15 (exceto o    |                 |          |          |
+|       |código 0901.1, 1502.00.1), 16 e 23, bem como as   |                 |          |          |
+|       |preparações dos tipos utilizados na alimentação de|                 |          |          |
+|       |animais vivos classificados nas posições 01.03 e  |                 |          |          |
+|       |01.05, classificadas no código 2309.90) e nos     |                 |          |          |
+|       |códigos 0504.00, 0701.90.00, 0702.00.00,          |                 |          |          |
+|       |0706.10.00, 07.08, 0709.90, 07.10, 07.12 a 07.14  |                 |          |          |
+|       |(exceto os códigos 0713.33.19, 0713.33.29 e       |                 |          |          |
+|       |0713.33.99), 1701.11.00, 1701.99.00, 1702.90.00,  |                 |          |          |
+|       |18.01, 18.03, 1804.00.00, 1805.00.00, 20.09 e     |                 |          |          |
+|       |2209.00.00.                                       |                 |          |          |
+|202    |Insumos de origem vegetal, utilizados na          |-                |10/10/2013|          |
+|       |fabricação de produtos destinados à alimentação   |                 |          |          |
+|       |humana ou animal, classificados na NCM capítulos 2|                 |          |          |
+|       |(exceto os códigos 02.01, 02.02, 02.03,           |                 |          |          |
+|       |0206.10.00, 0206.20, 0206.21, 0206.29, 0206.30.00,|                 |          |          |
+|       |0206.4, 02.07, 0210.1), 3 (exceto os produtos     |                 |          |          |
+|       |vivos desse capítulo), 4, 8 a 12 (exceto os       |                 |          |          |
+|       |produtos classificados nos códigos 12.01 e        |                 |          |          |
+|       |1208.10.00), 15 (exceto o código 0901.1,          |                 |          |          |
+|       |1502.00.1), 16 e 23 (exceto os produtos           |                 |          |          |
+|       |classificados nos códigos 2304.00 e 2309.10.00,   |                 |          |          |
+|       |bem como as preparações dos tipos utilizados na   |                 |          |          |
+|       |alimentação de animais vivos classificados nas    |                 |          |          |
+|       |posições 01.03 e 01.05, classificadas no código   |                 |          |          |
+|       |2309.90) e nos códigos 0504.00, 0701.90.00,       |                 |          |          |
+|       |0702.00.00, 0706.10.00, 07.08, 0709.90, 07.10,    |                 |          |          |
+|       |07.12 a 07.14 (exceto os códigos 0713.33.19,      |                 |          |          |
+|       |0713.33.29 e 0713.33.99), 1701.11.00, 1701.99.00, |                 |          |          |
+|       |1702.90.00, 18.01, 18.03, 1804.00.00, 1805.00.00, |                 |          |          |
+|       |20.09 e 2209.00.00.                               |                 |          |          |
+|203    |Soja e seus derivados classificados nos Capítulos |-                |01/2011   |09/10/2013|
+|       |12, 15 e 23, todos da TIPI                        |                 |          |          |
+|204    |Venda de cerealista que exerça cumulativamente as |-                |01/2011   |          |
+|       |atividades de limpar, padronizar, armazenar e     |                 |          |          |
+|       |comercializar os produtos in natura de origem     |                 |          |          |
+|       |vegetal, classificados nos códigos 09.01, 10.01 a |                 |          |          |
+|       |10.08, (exceto os dos códigos 1006.20 e 1006.30,  |                 |          |          |
+|       |12.01 e 18.01) da NCM.                            |                 |          |          |
+|205    |Venda a granel de leite in natura, efetuada por   |-                |01/2011   |          |
+|       |pessoa jurídica que exerça cumulativamente as     |                 |          |          |
+|       |atividades de transporte e resfriamento deste     |                 |          |          |
+|       |produto                                           |                 |          |          |
+|206    |Venda por PJ que exerça atividade agropecuária ou |-                |01/2011   |          |
+|       |por cooperativa de produção agropecuária de       |                 |          |          |
+|       |produto in natura de origem vegetal destinado à   |                 |          |          |
+|       |elaboração de mercadorias classificadas no código |                 |          |          |
+|       |22.04, da NCM                                     |                 |          |          |
+|207    |Venda de animais vivos classificados na posição   |-                |01/2011   |07/03/2013|
+|       |01.02, à pessoa jurídica que produza mercadoria   |                 |          |          |
+|       |classificada nas posições 02.01, 02.02,           |                 |          |          |
+|       |02.06.10.00, 02.06.20, 02.06.21, 02.06.29,        |                 |          |          |
+|       |0210.20.00,  05.06.90.00, 05.10.00.10 e 15.02.00.1|                 |          |          |
+|       |da NCM                                            |                 |          |          |
+|207    |Venda de animais vivos classificados nas posições |                 |08/03/2013|          |
+|       |01.02 e 01.04 à pessoa jurídica que produza       |                 |          |          |
+|       |mercadorias classificadas nos códigos 02.01,      |                 |          |          |
+|       |02.02, 02.04, 0206.10.00, 0206.20, 0206.21,       |                 |          |          |
+|       |0206.29, 0206.80.00, 0210.20.00, 0506.90.00,      |                 |          |          |
+|       |0510.00.10 e 1502.00.1 da NCM                     |                 |          |          |
+|208    |Vendas de produtos classificados nas posições     |-                |01/2011   |26/06/2011|
+|       |02.01, 02.02, 0206.10.00, 0206.20, 0206.21,       |                 |          |          |
+|       |0206.29, 0210.20.00, 0506.90.00, 0510.00.10 e     |                 |          |          |
+|       |1502.00.1, quando efetuadas por pessoa jurídica   |                 |          |          |
+|       |que industrialize bens e produtos classificados   |                 |          |          |
+|       |nas posições 01.02, 02.01 e 02.02 da NCM          |                 |          |          |
+|208    |Vendas de produtos classificados nas posições     |-                |27/06/2011|01/09/2013|
+|       |02.01, 02.02, 0206.10.00, 0206.20, 0206.21,       |                 |          |          |
+|       |0206.29, 0210.20.00, 0506.90.00, 0510.00.10 e     |                 |          |          |
+|       |1502.00.1, quando efetuadas por pessoa jurídica   |                 |          |          |
+|       |que revenda tais produtos ou que industrialize    |                 |          |          |
+|       |bens e produtos classificados nas posições 01.02, |                 |          |          |
+|       |02.01 e 02.02 da NCM                              |                 |          |          |
+|209    |Receita bruta da venda, no mercado interno, de:   |-                |01/2011   |26/06/2011|
+|       |I - insumos de origem vegetal, classificados nas  |                 |          |          |
+|       |posições 10.01 a 10.08, exceto os dos códigos     |                 |          |          |
+|       |1006.20 e 1006.30, e nas posições 12.01, 23.04 e  |                 |          |          |
+|       |23.06 da Nomenclatura Comum do Mercosul (NCM),    |                 |          |          |
+|       |quando efetuada por pessoa jurídica, inclusive    |                 |          |          |
+|       |cooperativa, vendidos:                            |                 |          |          |
+|       |a) para pessoas jurídicas que produzam mercadorias|                 |          |          |
+|       |classificadas nos códigos 02.03, 0206.30.00,      |                 |          |          |
+|       |0206.4, 02.07 e 0210.1 da NCM;                    |                 |          |          |
+|       |b) para pessoas jurídicas que produzam preparações|                 |          |          |
+|       |dos tipos utilizados na alimentação de animais    |                 |          |          |
+|       |vivos classificados nas posições 01.03 e 01.05,   |                 |          |          |
+|       |classificadas no código 2309.90 da NCM; e         |                 |          |          |
+|       |c) para pessoas físicas;                          |                 |          |          |
+|       |II - preparações dos tipos utilizados na          |                 |          |          |
+|       |alimentação de animais vivos classificados nas    |                 |          |          |
+|       |posições 01.03 e 01.05, classificadas no código   |                 |          |          |
+|       |2309.90 da NCM;                                   |                 |          |          |
+|       |III - animais vivos classificados nas posições    |                 |          |          |
+|       |01.03 e 01.05 da NCM, quando efetuada por pessoa  |                 |          |          |
+|       |jurídica, inclusive cooperativa, vendidos para    |                 |          |          |
+|       |pessoas jurídicas que produzam mercadorias        |                 |          |          |
+|       |classificadas nos códigos 02.03, 0206.30.00,      |                 |          |          |
+|       |0206.4, 02.07 e 0210.1 da NCM;                    |                 |          |          |
+|       |IV - produtos classificados nos códigos 02.03,    |                 |          |          |
+|       |0206.30.00, 0206.4, 02.07 e 0210.1 da NCM, quando |                 |          |          |
+|       |efetuada por pessoa jurídica que industrialize ou |                 |          |          |
+|       |revenda bens e produtos classificados nas posições|                 |          |          |
+|       |01.03 e 01.05 da NCM.                             |                 |          |          |
+|209    |Receita bruta da venda, no mercado interno, de:   |-                |27/06/2011|          |
+|       |I - insumos de origem vegetal, classificados nas  |                 |          |          |
+|       |posições 10.01 a 10.08, exceto os dos códigos     |                 |          |          |
+|       |1006.20 e 1006.30, e nas posições 12.01, 23.04 e  |                 |          |          |
+|       |23.06 da Nomenclatura Comum do Mercosul (NCM),    |                 |          |          |
+|       |quando efetuada por pessoa jurídica, inclusive    |                 |          |          |
+|       |cooperativa, vendidos:                            |                 |          |          |
+|       |a) para pessoas jurídicas que produzam mercadorias|                 |          |          |
+|       |classificadas nos códigos 02.03, 0206.30.00,      |                 |          |          |
+|       |0206.4, 02.07 e 0210.1 da NCM;                    |                 |          |          |
+|       |b) para pessoas jurídicas que produzam preparações|                 |          |          |
+|       |dos tipos utilizados na alimentação de animais    |                 |          |          |
+|       |vivos classificados nas posições 01.03 e 01.05,   |                 |          |          |
+|       |classificadas no código 2309.90 da NCM; e         |                 |          |          |
+|       |c) para pessoas físicas;                          |                 |          |          |
+|       |II - preparações dos tipos utilizados na          |                 |          |          |
+|       |alimentação de animais vivos classificados nas    |                 |          |          |
+|       |posições 01.03 e 01.05, classificadas no código   |                 |          |          |
+|       |2309.90 da NCM;                                   |                 |          |          |
+|       |III - animais vivos classificados nas posições    |                 |          |          |
+|       |01.03 e 01.05 da NCM, quando efetuada por pessoa  |                 |          |          |
+|       |jurídica, inclusive cooperativa, vendidos para    |                 |          |          |
+|       |pessoas jurídicas que produzam mercadorias        |                 |          |          |
+|       |classificadas nos códigos 02.03, 0206.30.00,      |                 |          |          |
+|       |0206.4, 02.07 e 0210.1 da NCM;                    |                 |          |          |
+|       |IV - produtos classificados nos códigos 02.03,    |                 |          |          |
+|       |0206.30.00, 0206.4, 02.07, 0210.1 e carne de      |                 |          |          |
+|       |frango classificada no código 0210.99.00 da NCM,  |                 |          |          |
+|       |quando efetuada por pessoa jurídica que revenda   |                 |          |          |
+|       |tais produtos, ou que industrialize bens e        |                 |          |          |
+|       |produtos classificados nas posições 01.03 e 01.05 |                 |          |          |
+|       |da NCM                                            |                 |          |          |
+|210    |Receitas decorrentes da venda dos produtos        |0901.1 e         |01/2012   |08/03/2013|
+|       |classificados nos códigos 0901.1 e 0901.90.00 da  |0901.90.00       |          |          |
+|       |TIPI, exceto na venda a consumidor final.         |                 |          |          |
+|211    |Receitas decorrentes da venda de matéria-prima in |-                |08/2012 * |          |
+|       |natura de origem vegetal, destinada à produção de |                 |          |          |
+|       |biodiesel, quando efetuada por pessoa jurídica que|                 |          |          |
+|       |exerça atividade agropecuária, de cooperativa de  |                 |          |          |
+|       |produção agropecuária ou de cerealista que exerça |                 |          |          |
+|       |cumulativamente as atividades de limpar,          |                 |          |          |
+|       |padronizar, armazenar e comercializar a           |                 |          |          |
+|       |matéria-prima destinada à produção de biodiesel.  |                 |          |          |
+|212    |Receitas decorrentes da venda dos produtos        |-                |01/2013   |          |
+|       |classificados no código 0805.10.00 da TIPI, quando|                 |          |          |
+|       |utilizados na industrialização dos produtos       |                 |          |          |
+|       |classificados no código 2009.1 da TIPI, e estes   |                 |          |          |
+|       |forem destinados à exportação.                    |                 |          |          |
+|213    |Soja classificada na posição 12.01 e dos produtos |12.01, 1208.10.00|10/10/2013|          |
+|       |classificados nos códigos 1208.10.00 e 2304.00 da |e 2304.00        |          |          |
+|       |TIPI                                              |                 |          |          |
+|300    |REGIMES ESPECIAIS                                 |                 |          |          |
+|301    |REPES - Regime Especial de Tributação para a      |-                |01/2011   |          |
+|       |Plataforma de Exportação de Serviços de Tecnologia|                 |          |          |
+|       |da Informação.                                    |                 |          |          |
+|       |- Venda e/ou importação de bens novos destinados  |                 |          |          |
+|       |ao desenvolvimento, no País, de software e de     |                 |          |          |
+|       |serviços de tecnologia da informação, para        |                 |          |          |
+|       |incorporação ao seu ativo imobilizado;            |                 |          |          |
+|       |- Venda e/ou importação de serviços destinados ao |                 |          |          |
+|       |desenvolvimento, no País, de software e de        |                 |          |          |
+|       |serviços de tecnologia da informação e serviços   |                 |          |          |
+|302    |RECAP - Regime Especial de Aquisição de Bens de   |-                |01/2011   |          |
+|       |Capital para Empresas Exportadoras.               |                 |          |          |
+|       |- Venda e/ou importação de máquinas, aparelhos,   |                 |          |          |
+|       |instrumentos e equipamentos, para incorporação em |                 |          |          |
+|       |seu ativo imobilizado                             |                 |          |          |
+|303    |REIDI - Regime Especial de Incentivos para o      |-                |01/2011   |          |
+|       |Desenvolvimento da Infra-Estrutura.               |                 |          |          |
+|       |- Venda e/ou importação de máquinas, aparelhos,   |                 |          |          |
+|       |instrumentos e equipamentos, novos, de materiais  |                 |          |          |
+|       |de construção e de serviços para utilização ou    |                 |          |          |
+|       |incorporação em obras de infra-estrutura          |                 |          |          |
+|       |destinadas ao ativo imobilizado                   |                 |          |          |
+|       |- Receitas de aluguel de máquinas, aparelhos,     |                 |          |          |
+|       |instrumentos e equipamentos para utilização em    |                 |          |          |
+|       |obras de infra-estrutura quando contratado por    |                 |          |          |
+|       |pessoa jurídica beneficiária do REIDI             |                 |          |          |
+|304    |REPENEC - Regime Especial de Incentivos para o    |-                |01/2011   |          |
+|       |Desenvolvimento de Infraestrutura da Indústria    |                 |          |          |
+|       |Petrolífera nas Regiões Norte, Nordeste e         |                 |          |          |
+|       |Centro-Oeste.                                     |                 |          |          |
+|       |- Venda/Importação de máquinas, aparelhos,        |                 |          |          |
+|       |instrumentos e equipamentos, novos, e de materiais|                 |          |          |
+|       |de construção, bem como serviços para utilização  |                 |          |          |
+|       |ou incorporação nas obras de infraestrutura nas   |                 |          |          |
+|       |Regiões Norte, Nordeste e Centro-Oeste, nos       |                 |          |          |
+|       |setores petroquímico, de refino de petróleo e de  |                 |          |          |
+|       |produção de amônia e uréia a partir do gás        |                 |          |          |
+|       |natural, para incorporação ao seu ativo           |                 |          |          |
+|       |imobilizado.                                      |                 |          |          |
+|305    |REPORTO - Regime Tributário para Incentivo à      |-                |01/2011   |03/04/2012|
+|       |Modernização e à Ampliação da Estrutura Portuária.|                 |          |          |
+|       |                                                  |                 |          |          |
+|       |- Vendas de locomotivas, locotratores, tênderes e |                 |          |          |
+|       |vagões, e de trilhos e demais elementos de vias   |                 |          |          |
+|       |férreas, para utilização na execução de serviços  |                 |          |          |
+|       |de transporte de mercadorias em ferrovias         |                 |          |          |
+|       |                                                  |                 |          |          |
+|       |- Venda/Importação de máquinas, equipamentos,     |                 |          |          |
+|       |peças de reposição e outros bens, destinados ao   |                 |          |          |
+|       |seu ativo imobilizado para utilização exclusiva em|                 |          |          |
+|       |portos na execução de serviços de carga, descarga |                 |          |          |
+|       |e movimentação de mercadorias, bem como na        |                 |          |          |
+|       |execução dos serviços de dragagem, e nos Centros  |                 |          |          |
+|       |de Treinamento Profissional, na execução do       |                 |          |          |
+|       |treinamento e formação de trabalhadores           |                 |          |          |
+|305    |REPORTO - Regime Tributário para Incentivo à      |                 |04/04/2012|          |
+|       |Modernização e à Ampliação da Estrutura Portuária.|                 |          |          |
+|       |                                                  |                 |          |          |
+|       |- Vendas de locomotivas, locotratores, tênderes e |                 |          |          |
+|       |vagões, e de trilhos e demais elementos de vias   |                 |          |          |
+|       |férreas, para utilização na execução de serviços  |                 |          |          |
+|       |de transporte de mercadorias em ferrovias         |                 |          |          |
+|       |                                                  |                 |          |          |
+|       |- Venda/Importação de máquinas, equipamentos,     |                 |          |          |
+|       |peças de reposição e outros bens, destinados ao   |                 |          |          |
+|       |seu ativo imobilizado para utilização exclusiva em|                 |          |          |
+|       |portos na execução de serviços de carga, descarga |                 |          |          |
+|       |e movimentação de mercadorias e produtos, de      |                 |          |          |
+|       |sistemas suplementares de apoio operacional, de   |                 |          |          |
+|       |proteção ambiental, de sistemas de segurança e de |                 |          |          |
+|       |monitoramento de fluxo de pessoas, mercadorias,   |                 |          |          |
+|       |produtos, veículos e embarcações, de dragagens e  |                 |          |          |
+|       |de treinamento e formação de trabalhadores,       |                 |          |          |
+|       |inclusive na implantação de Centros de Treinamento|                 |          |          |
+|       |Profissional                                      |                 |          |          |
+|306    |RECOMPE - Regime Especial de Aquisição de         |-                |01/2011   |          |
+|       |Computadores para Uso Educacional.                |                 |          |          |
+|       |Prestação de serviços e venda de matérias-primas e|                 |          |          |
+|       |produtos intermediários destinados à              |                 |          |          |
+|       |industrialização dos equipamentos destinados ao   |                 |          |          |
+|       |PROUCA (Programa Um Computador por Aluno)         |                 |          |          |
+|307    |RETAERO - Regime Especial para a Indústria        |-                |01/2011   |          |
+|       |Aeronáutica Brasileira.                           |                 |          |          |
+|       |- Partes, peças, ferramentais, componentes,       |                 |          |          |
+|       |equipamentos, sistemas, subsistemas, insumos e    |                 |          |          |
+|       |matérias-primas, ou serviços a serem empregados na|                 |          |          |
+|       |manutenção, conservação, modernização, reparo,    |                 |          |          |
+|       |revisão, conversão e industrialização das         |                 |          |          |
+|       |aeronaves classificadas na posição 88.02 da NCM.  |                 |          |          |
+|       |- Venda ou importação de serviços de tecnologia   |                 |          |          |
+|       |industrial básica, desenvolvimento e inovação     |                 |          |          |
+|       |tecnológica, assistência técnica e transferência  |                 |          |          |
+|       |de tecnologia destinados a empresas beneficiárias |                 |          |          |
+|308    |RECOPA - Regime Especial de Tributação para       |-                |01/2011   |          |
+|       |Construção, Ampliação, Reforma ou Modernização de |                 |          |          |
+|       |Estádios de Futebol.                              |                 |          |          |
+|       |- Venda no mercado interno ou importação de       |                 |          |          |
+|       |máquinas, aparelhos, instrumentos e equipamentos, |                 |          |          |
+|       |novos, materiais de construção, prestação de      |                 |          |          |
+|       |serviços, locação de máquinas, aparelhos,         |                 |          |          |
+|       |instrumentos e equipamentos para utilização ou    |                 |          |          |
+|       |incorporação nas obras de construção, ampliação,  |                 |          |          |
+|       |reforma ou modernização dos estádios de futebol   |                 |          |          |
+|       |com utilização prevista nas partidas oficiais da  |                 |          |          |
+|       |Copa das Confederações FIFA 2013 e da Copa do     |                 |          |          |
+|       |Mundo FIFA 2014                                   |                 |          |          |
+|309    |ZFM - Zona Franca de Manaus.                      |-                |01/2011   |          |
+|       |- Importação de bens a serem empregados na        |                 |          |          |
+|       |elaboração de matérias-primas, produtos           |                 |          |          |
+|       |intermediários e materiais de embalagem destinados|                 |          |          |
+|       |a emprego em processo de industrialização por     |                 |          |          |
+|       |estabelecimentos industriais instalados na ZFM.   |                 |          |          |
+|       |- Importação de matérias-primas, produtos         |                 |          |          |
+|       |intermediários e materiais de embalagem para      |                 |          |          |
+|       |emprego em processo de industrialização por       |                 |          |          |
+|       |estabelecimentos industriais instalados na ZFM.   |                 |          |          |
+|310    |ZPE - Zonas de Processamento de Exportação.       |-                |01/2011   |          |
+|       |- Importações ou aquisições no mercado interno de |                 |          |          |
+|       |bens e serviços por empresa autorizada a operar em|                 |          |          |
+|       |ZPE.                                              |                 |          |          |
+|311    |Vendas realizadas no mercado interno para a Fifa, |-                |01/2011   |          |
+|       |para Subsidiária Fifa no Brasil ou para a Emissora|                 |          |          |
+|       |Fonte da Fifa, de mercadorias destinadas a uso ou |                 |          |          |
+|       |consumo exclusivo na organização e realização da  |                 |          |          |
+|       |Copa das Confederações Fifa 2013 e da Copa do     |                 |          |          |
+|       |Mundo Fifa 2014.                                  |                 |          |          |
+|312    |RECOF -  Regime de Entreposto Industrial sob      |-                |01/2011   |          |
+|       |Controle Aduaneiro Informatizado                  |                 |          |          |
+|       |Importação, com ou sem cobertura cambial, e com   |                 |          |          |
+|       |suspensão do pagamento de tributos, sob controle  |                 |          |          |
+|       |aduaneiro informatizado, de mercadorias que,      |                 |          |          |
+|       |depois de submetidas a operação de                |                 |          |          |
+|       |industrialização, sejam destinadas a exportação   |                 |          |          |
+|313    |RECOM - Regime Aduaneiro Especial de Importação de|-                |01/2011   |          |
+|       |Insumos Destinados a Industrialização por         |                 |          |          |
+|       |Encomenda de Produtos Classificados nas Posições  |                 |          |          |
+|       |8701 A 8705 da NCM                                |                 |          |          |
+|       |Importação de insumos (chassis, carroçarias,      |                 |          |          |
+|       |peças, partes, componentes e acessórios), sem     |                 |          |          |
+|       |cobertura cambial, destinados a industrialização  |                 |          |          |
+|       |por encomenda de produtos classificados nas       |                 |          |          |
+|       |posições 8701 a 8705 da NCM                       |                 |          |          |
+|314    |RECINE - Regime Especial de Tributação para       |                 |26/03/2012|          |
+|       |Desenvolvimento da Atividade de Exibição          |                 |          |          |
+|       |Cinematográfica.                                  |                 |          |          |
+|       |Venda no mercado interno ou importação de         |                 |          |          |
+|       |máquinas, aparelhos, instrumentos e equipamentos, |                 |          |          |
+|       |novos, para incorporação no ativo imobilizado e   |                 |          |          |
+|       |utilização em complexos de exibição ou cinemas    |                 |          |          |
+|       |itinerantes, bem como de materiais para sua       |                 |          |          |
+|       |construção                                        |                 |          |          |
+|315    |PROUCA - Programa Um Computador por Aluno.        |                 |11/06/2012|31/12/2015|
+|       |REICOMP - Regime Especial de Incentivo a          |                 |          |          |
+|       |Computadores para Uso Educacional.                |                 |          |          |
+|       |Receita decorrente da:                            |                 |          |          |
+|       |a) venda de matérias-primas e produtos            |                 |          |          |
+|       |intermediários destinados à industrialização dos  |                 |          |          |
+|       |equipamentos mencionados no art. 16 da MP         |                 |          |          |
+|       |(computadores portáteis classificados nos códigos |                 |          |          |
+|       |8471.30.12 e 8471.30.19 da NCM), quando adquiridos|                 |          |          |
+|       |por pessoa jurídica habilitada ao regime; ou      |                 |          |          |
+|       |b) prestação de serviços por pessoa jurídica      |                 |          |          |
+|       |estabelecida no País a pessoa jurídica habilitada |                 |          |          |
+|       |ao regime, quando destinados aos equipamentos     |                 |          |          |
+|       |mencionados no art. 16 da MP                      |                 |          |          |
+|316    |REPNBL-Redes - Regime Especial de Tributação do   |                 |04/04/2012|31/12/2016|
+|       |Programa Nacional de Banda Larga para Implantação |                 |          |          |
+|       |de Redes de Telecomunicações.                     |                 |          |          |
+|       |Venda no mercado interno de máquinas, aparelhos,  |                 |          |          |
+|       |instrumentos e equipamentos novos e de materiais  |                 |          |          |
+|       |de construção para utilização ou incorporação nas |                 |          |          |
+|       |obras civis abrangidas no projeto de implantação, |                 |          |          |
+|       |ampliação ou modernização de redes de             |                 |          |          |
+|       |telecomunicações que suportam acesso à Internet em|                 |          |          |
+|       |banda larga.                                      |                 |          |          |
+|       |Venda de serviços destinados às obras civis       |                 |          |          |
+|       |abrangidas no projeto acima referido.             |                 |          |          |
+|317    |RETID - Regime Especial Tributário para a         |                 |30/09/2011|          |
+|       |Indústria de Defesa                               |                 |          |          |
+|       |Venda de bens de defesa nacional, quando a        |                 |          |          |
+|       |aquisição for efetuada por pessoa jurídica        |                 |          |          |
+|       |beneficiária do Retid                             |                 |          |          |
+|       |Venda ou importação de serviços de tecnologia     |                 |          |          |
+|       |industrial básica, projetos, pesquisa,            |                 |          |          |
+|       |desenvolvimento e inovação tecnológica,           |                 |          |          |
+|       |assistência técnica e transferência de tecnologia,|                 |          |          |
+|       |destinados a empresas beneficiárias do Retid      |                 |          |          |
+|318    |REIF - Regime Especial de Incentivo ao            |                 |21/09/2012|          |
+|       |Desenvolvimento da Infraestrutura da Indústria de |                 |          |          |
+|       |Fertilizantes                                     |                 |          |          |
+|       |Venda no mercado interno ou de importação de      |                 |          |          |
+|       |serviços, máquinas, aparelhos, instrumentos e     |                 |          |          |
+|       |equipamentos, novos, e de materiais de construção |                 |          |          |
+|       |para utilização ou incorporação no projeto        |                 |          |          |
+|       |aprovado para implantação ou ampliação de         |                 |          |          |
+|       |infraestrutura para produção de fertilizantes e de|                 |          |          |
+|       |seus insumos, para incorporação ao seu ativo      |                 |          |          |
+|       |imobilizado, bem como a receita decorrente da     |                 |          |          |
+|       |locação de máquinas, aparelhos, instrumentos e    |                 |          |          |
+|       |equipamentos a pessoa jurídica beneficiária do    |                 |          |          |
+|       |REIF, para utilização na execução do projeto      |                 |          |          |
+|319    |Vendas de mercadorias e a prestação de serviços   |                 |01/01/2013|31/12/2017|
+|       |ocorridas no mercado interno para as pessoas      |                 |          |          |
+|       |jurídicas mencionadas no § 2o do art. 4o da Lei nº|                 |          |          |
+|       |12.780/2013, destinadas exclusivamente à          |                 |          |          |
+|       |organização ou à realização dos Jogos Olímpicos de|                 |          |          |
+|       |2016 e dos Jogos Paraolímpicos de 2016.           |                 |          |          |
+|320    |REPETRO-Industrialização                          |                 |19/07/2019|          |
+|       |Venda no mercado interno de matérias-primas,      |                 |          |          |
+|       |produtos intermediários e materiais de embalagem  |                 |          |          |
+|       |para serem utilizados integralmente no processo de|                 |          |          |
+|       |industrialização de produto final destinado às    |                 |          |          |
+|       |atividades de exploração, de desenvolvimento e de |                 |          |          |
+|       |produção de petróleo, de gás natural e de outros  |                 |          |          |
+|       |hidrocarbonetos fluidos à PJ habilitada no        |                 |          |          |
+|       |Repetro-Industrialização.                         |                 |          |          |
+|321    |REPETRO-SPED                                      |                 |19/07/2019|          |
+|       |Venda dos produtos finais destinados às atividades|                 |          |          |
+|       |de exploração, de desenvolvimento e de produção de|                 |          |          |
+|       |petróleo, de gás natural e de outros              |                 |          |          |
+|       |hidrocarbonetos fluidos previstas na Lei nº 9.478,|                 |          |          |
+|       |de 6 de agosto de 1997 , na Lei nº 12.276, de 30  |                 |          |          |
+|       |de junho de 2010, e na Lei nº 12.351, de 22 de    |                 |          |          |
+|       |dezembro de 2010, por fabricantes desses,         |                 |          |          |
+|       |beneficiários do Repetro-Industrialização, quando |                 |          |          |
+|       |diretamente adquiridos por pessoa jurídica        |                 |          |          |
+|       |habilitada no Repetro ou no Repetro-Sped.         |                 |          |          |
+|400    |OUTROS PRODUTOS E SERVIÇOS                        |                 |          |          |
+|401    |Receitas de Fretes e de transporte multimodal,    |-                |01/2011   |          |
+|       |contratadas por pessoa jurídica preponderantemente|                 |          |          |
+|       |exportadora, para transporte no mercado interno de|                 |          |          |
+|       |produtos com suspensão ou destinados a Exportação.|                 |          |          |
+|402    |Venda de cana-de-açúcar, classificada na posição  |-                |01/2011   |          |
+|       |12.12 da Nomenclatura Comum do Mercosul - NCM,    |                 |          |          |
+|       |efetuada para pessoa jurídica produtora de álcool,|                 |          |          |
+|       |inclusive para fins carburantes, tributada no     |                 |          |          |
+|       |regime de não cumulatividade.                     |                 |          |          |
+|403    |Venda de óleo combustível, tipo bunker, MF -      |-                |01/2011   |          |
+|       |Marine Fuel, classificado no código 2710.19.22,   |                 |          |          |
+|       |óleo combustível, tipo bunker, MGO - Marine Gás   |                 |          |          |
+|       |Oil, classificado no código 2710.19.21 e óleo     |                 |          |          |
+|       |combustível, tipo bunker, ODM - Óleo Diesel       |                 |          |          |
+|       |Marítimo, classificado no código 2710.19.21,      |                 |          |          |
+|       |quando destinados à navegação de cabotagem e de   |                 |          |          |
+|       |apoio portuário e marítimo, para a pessoa jurídica|                 |          |          |
+|       |previamente habilitada                            |                 |          |          |
+|404    |Acetona classificada no código 2914.11.00 da      |-                |01/2011   |          |
+|       |Tabela de Incidência do Imposto sobre Produtos    |                 |          |          |
+|       |Industrializados - Tipi, destinada à produção de  |                 |          |          |
+|       |monoisopropilamina (Mipa) utilizada na elaboração |                 |          |          |
+|       |de defensivos agropecuários classificados na      |                 |          |          |
+|       |posição 38.08 da Tipi                             |                 |          |          |
+|405    |Desperdícios, resíduos ou aparas de plástico, de  |39.15, 47.07,    |01/2011   |22/04/2026|
+|       |papel ou cartão, de vidro, de ferro ou aço, de    |70.01, 72.04,    |          |          |
+|       |cobre, de níquel, de alumínio, de chumbo, de zinco|74.04, 75.03,    |          |          |
+|       |e de estanho, e demais desperdícios e resíduos    |76.02, 78.02,    |          |          |
+|       |metálicos do Capítulo 81 da Tipi, quando vendidos |79.02, 80.02,    |          |          |
+|       |para pessoa jurídica que apure o imposto de renda |81019700         |          |          |
+|       |com base no lucro real.                           |81029700,        |          |          |
+|       |                                                  |81033000,        |          |          |
+|       |                                                  |81042000,        |          |          |
+|       |                                                  |81043000         |          |          |
+|       |                                                  |81053000,        |          |          |
+|       |                                                  |81060090         |          |          |
+|       |                                                  |81073000,        |          |          |
+|       |                                                  |81083000         |          |          |
+|       |                                                  |81093000,        |          |          |
+|       |                                                  |81102000         |          |          |
+|       |                                                  |81110090,        |          |          |
+|       |                                                  |81121300         |          |          |
+|       |                                                  |81122200,        |          |          |
+|       |                                                  |81125200         |          |          |
+|       |                                                  |81129200,        |          |          |
+|       |                                                  |81130090         |          |          |
+|406    |Venda de produtos à pessoa jurídica sediada no    |-                |01/2011   |          |
+|       |exterior, com contrato de entrega no território   |                 |          |          |
+|       |nacional, de insumos destinados à                 |                 |          |          |
+|       |industrialização, por conta e ordem da            |                 |          |          |
+|       |encomendante sediada no exterior, de máquinas e   |                 |          |          |
+|       |veículos classificados nas posições 87.01 a 87.05 |                 |          |          |
+|       |da TIPI                                           |                 |          |          |
+|407    |Vendas a empresa sediada no exterior, para entrega|-                |01/2011   |          |
+|       |em território nacional, de material de embalagem a|                 |          |          |
+|       |ser totalmente utilizados no acondicionamento de  |                 |          |          |
+|       |mercadoria destinada à exportação para o exterior |                 |          |          |
+|408    |Venda de máquinas e equipamentos classificados na |-                |01/2011   |          |
+|       |posição 84.39, utilizados na fabricação de papéis |                 |          |          |
+|       |destinados à impressão de jornais ou de papéis    |                 |          |          |
+|       |classificados nos códigos 4801.00.10, 4801.00.90, |                 |          |          |
+|       |4802.61.91, 4802.61.99, 4810.19.39 e 4810.22.90,  |                 |          |          |
+|       |todos da Tipi, destinados à impressão de          |                 |          |          |
+|       |periódicos, quando os referidos bens forem        |                 |          |          |
+|       |adquiridos por pessoa jurídica industrial para    |                 |          |          |
+|       |incorporação ao seu ativo imobilizado             |                 |          |          |
+|409    |As aquisições no mercado interno e nas importações|                 |11/03/2022|31/12/2022|
+|       |de petróleo efetuadas por refinarias para a       |                 |          |          |
+|       |produção de combustíveis. LC 194/22               |                 |          |          |
+|409    |As aquisições no mercado interno e nas importações|                 |01/01/2023|28/02/2023|
+|       |de petróleo efetuadas por refinarias para a       |                 |          |          |
+|       |produção de combustíveis. MP 1.157/23             |                 |          |          |
+|409    |As aquisições no mercado interno e nas importações|                 |01/03/2023|31/12/2023|
+|       |de petróleo efetuadas por refinarias para a       |                 |          |          |
+|       |produção de combustíveis. MP 1.163/23             |                 |          |          |
+|410    |Aquisições dos insumos naftas, com Nomenclatura   |2710.12.49       |11/03/2022|31/12/2022|
+|       |Comum do Mercosul/Sistema Harmonizado - NCM/SH    |2707.99.90       |          |          |
+|       |2710.12.49, outras misturas (aromáticos), NCM/SH  |2710.19.99       |          |          |
+|       |2707.99.90, óleo de petróleo parcialmente         |2709.00.10       |          |          |
+|       |refinado, NCM 2710.19.99, outros óleos brutos de  |2921.42.90       |          |          |
+|       |petróleo ou minerais (condensados), NCM           |                 |          |          |
+|       |2709.00.10, e N-Metilanilina, NCM/SH 2921.42.90.  |                 |          |          |
+|       |LC 194/22                                         |                 |          |          |
+|410    |Aquisições dos insumos naftas, com Nomenclatura   |2710.12.49       |01/01/2023|28/02/2023|
+|       |Comum do Mercosul/Sistema Harmonizado - NCM/SH    |2707.99.90       |          |          |
+|       |2710.12.49, outras misturas (aromáticos), NCM/SH  |2710.19.99       |          |          |
+|       |2707.99.90, óleo de petróleo parcialmente         |2709.00.10       |          |          |
+|       |refinado, NCM 2710.19.99, outros óleos brutos de  |2921.42.90       |          |          |
+|       |petróleo ou minerais (condensados), NCM           |                 |          |          |
+|       |2709.00.10, e N-Metilanilina, NCM/SH 2921.42.90.  |                 |          |          |
+|       |MP 1.157/23                                       |                 |          |          |
+|410    |Aquisições dos insumos naftas, com Nomenclatura   |2710.12.49       |01/03/2023|31/12/2023|
+|       |Comum do Mercosul/Sistema Harmonizado - NCM/SH    |2707.99.90       |          |          |
+|       |2710.12.49, outras misturas (aromáticos), NCM/SH  |2710.19.99       |          |          |
+|       |2707.99.90, óleo de petróleo parcialmente         |2709.00.10       |          |          |
+|       |refinado, NCM 2710.19.99, outros óleos brutos de  |2921.42.90       |          |          |
+|       |petróleo ou minerais (condensados), NCM           |                 |          |          |
+|       |2709.00.10, e N-Metilanilina, NCM/SH 2921.42.90.  |                 |          |          |
+|       |MP 1.163/23                                       |                 |          |          |
+|900    |DEMAIS OPERAÇÕES COM SUSPENSÃO                    |                 |          |          |
+|901    |Doações em espécie recebidas por instituições     |-                |01/2011   |          |
+|       |financeiras públicas controladas pela União e     |                 |          |          |
+|       |destinadas a ações de prevenção, monitoramento e  |                 |          |          |
+|       |combate ao desmatamento, inclusive programas de   |                 |          |          |
+|       |remuneração por serviços ambientais, e de promoção|                 |          |          |
+|       |da conservação e do uso sustentável dos biomas    |                 |          |          |
+|       |brasileiros, na forma estabelecida pelo Decreto nº|                 |          |          |
+|       |6.565, de 15 de setembro de 2008                  |                 |          |          |
+|999    |Outras operações com suspensão                    |-                |01/2011   |          |
+
+* A data refere-se ao 1o (primeiro) dia do 4o (quarto) mês subsequente à
+data de publicação da MP 563/2012. A produção de efeitos inicia a partir de
+sua regulamentação.
+
+OBS: Legislação de Referência:
+1. Grupo 100 - MATÉRIAS-PRIMAS, PRODUTOS INTERMEDIÁRIOS E MATERIAIS DE
+EMBALAGEM:
+Código 101: art. 40 da Lei nº 10.865/04.
+Código 102: art. 40-A da Lei nº 10.865/04.
+Código 103: art. 12 da Lei nº 11.945/2009 e Portaria Conjunta RFB/Secex nº
+467, de 25/03/2010
+Código 104: art. 12, § 1º, I, da Lei nº 11.945/2009 e Portaria Conjunta
+RFB/Secex nº 467, de 25/03/2010
+Código 105: art. 12, § 1º, III, da Lei nº 11.945/2009 e Portaria Conjunta
+RFB/Secex nº 467, de 25/03/2010
+Código 106: art. 12-A, caput e §1º, da Lei nº 11.945, atualizada pela Lei
+nº 14.440/2022.
+
+2. Grupo 200 - AGROINDUSTRIA:
+Códigos 201-205: Art. 9º da Lei nº 10.925/04 e IN SRF 660/2004
+Código 206: Art. 15º da Lei nº 10.925/2004
+Códigos 207: Art. 32 da Lei nº 12.058/2009, alterado pelas Leis nº
+12.350/2010, nº 12.431/2011 e pela MP nº 609/2013.
+Códigos 208: Art. 32 da Lei nº 12.058/2009, revogado pela Lei nº
+12.839/2013.
+Código 209: Art. 54 da Lei nº 12.350/2010
+Código 210: Art. 4º da MP 545/2011, convertida na Lei nº 12.599/2012
+Código 211: Art. 47-A da Lei 12.546/2011
+Código 212: Art. 14 da MP 582/2012
+Código 213: Art. 29 da Lei nº 12.865/2013
+
+3. Grupo 300 - REGIMES ESPECIAIS
+Código 301: Arts. 1º a 11 da Lei nº 11.196/2005, Decreto nº 5.712/06,
+Decreto nº 5.713/06 e IN SRF nº 630/06
+Código 302: Arts. 12 a 16 da Lei nº11.196/2005, Decreto nº 5.649/05,
+Decreto nº 5.788/06, Decreto nº 5.789/06 e a IN SRF nº 605, de 2006
+Código 303: Arts. 1º a 5º da Lei nº 11.488/2007; Decreto nº 6.144/2007; IN
+SRF nº 758/2007
+Código 304: Arts. 1º a 5º da Lei nº 12.249/2010; Decreto nº 7.320/2010
+Código 305: Arts. 13 a 16 da Lei nº 11.033/2004, Decreto nº 6.582/2004; IN
+SRF nº 879/2008
+Código 306: Arts. 7º a 14 da Lei nº 12.249/2010, Decreto nº 7.243/2010
+Código 307: Arts. 29 a 33 da Lei nº 12.249/2010
+Código 308: Arts. 17 a 21 da Lei nº 12.350/2010 (conversão da MP nº 497) e
+Decreto nº 7.319/2010
+Código 309: Arts. 14 e 14-A Lei nº 10.865/2004
+Código 310: Arts. 6º-A Lei nº 11.508/2007
+Código 311: Art. 15 Lei nº 12.350/2010
+Código 312: Art. 14, § 2º, Lei nº 10.865, de 2004, arts. 423 a 426 do
+Decreto 6.759, de 2009, IN RFB nº 757, de 2007
+Código 313: Art. 14, Lei nº 10.865, de 2004, arts. 427 a 430 do Decreto
+6.759, de 2009
+Código 314: Arts. 12 a 14 da Lei nº 12.599/2012
+Código 315: Arts. 15 a 23 da MP nº 563/2012, convertida na Lei nº
+12.715/2012, Decreto nº 7.750/2012
+Código 316: Arts. 24 a 29 da MP nº 563/2012, convertida na Lei nº
+12.715/2012
+Código 317: Arts. 7 a 11 da Lei 12.598/2012
+Código 318: Arts. 7º a 11 da MP 582/2012
+Código 319: Art. 14 da Lei nº 12.780/2013
+Código 320: Art. 6º da Lei 13.586/2017, Decreto 9.537/2018, Art. 9º da IN
+RFB 1.901/2019
+Código 321: Art. 6º da Lei 13.586/2017, Decreto 9.537/2018, Art. 10 da IN
+RFB 1.901/2019
+
+4. Grupo 400 - DEMAIS PRODUTOS E SERVIÇOS:
+Código 401: § 6º-A. do art. 40 da Lei nº 10.865/2004
+Código 402: art. 11 da Lei nº 11.727/2008
+Código 403: Art. 2º da Lei nº 11.774/2008
+Código 404: art. 25 da Lei nº 11.727/2008
+Código 405: art. 48 da Lei nº 11.196/2005, na redação dada pela Lei nº
+15.394, de 22/04/2026.
+Código 406: art. 38 da Lei nº 10.865/2004
+Código 407: art. 49 da Lei nº 11.196/2005; Decreto nº 6.127, de 2007
+Código 408: art. 55 da Lei nº 11.196/2005; Decreto nº 5.653/2005, Decreto
+nº 5.881/2006 e IN SRF nº 675/2006.
+Código 409: § 6º, do art. 9º, da LC 192/22, alterado pela LC 194/22.
+Código 409: Caput do art. 5º, da MP 1.157/2023
+Código 409: Caput do art. 6º, da MP 1.163/2023
+Código 410: § 7º, do art. 9º, da LC 192/22, alterada pela LC 194/22.
+Código 410: §1º, do art. 5º, da MP 1.157/2023.
+Código 410: §1º, do art. 6º, da MP 1.163/2023.
+5. Grupo 900 - DEMAIS OPERAÇÕES COM SUSPENSÃO
+Código 901: Lei nº 11.828/2008 e Decreto nº 6.565/2008
+
+

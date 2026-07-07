@@ -1,0 +1,59 @@
+
+
+Tabela 4.3.12 - Produtos Sujeitos a Substituição Tributária da Contribuição
+Social (CST 05) - Atualizada em 17/11/2014:
+
+|Código |Descrição do Produto    |NCM                 |Alíquotas |Alíquotas |Início de|Término  |
+|       |                        |                    |PIS       |COFINS    |Escritura|de       |
+|       |                        |                    |%         |%         |ção      |Escritura|
+|       |                        |                    |          |          |Mês/Ano  |ção      |
+|       |                        |                    |          |          |         |Mês/Ano  |
+|100    |CIGARROS E CIGARRILHAS  |                    |          |          |         |         |
+|102    |Cigarrilhas             |2402.10.00          |0,65      |3,0       |01/08/201|         |
+|       |                        |                    |          |          |1        |         |
+|       |                        |                    |          |          |         |         |
+|200    |MOTOCICLETAS            |                    |          |          |         |         |
+|       |                        |                    |          |          |         |         |
+|300    |MAQUINAS AGRICOLAS      |                    |          |          |         |         |
+|       |AUTOPROPULSADAS         |                    |          |          |         |         |
+|       |                        |                    |          |          |         |         |
+|       |                        |                    |          |          |         |         |
+|400    |VENDAS DE PRODUTOS      |                                           |         |         |
+|       |MONOFÁSICOS À ZFM       |                                           |         |         |
+|402    |Álcool, inclusive para  |Tabela 4.3.11                              |01/2011  |         |
+|       |fins carburantes -      |                                           |         |         |
+|       |Vendas por Distribuidor |                                           |         |         |
+|403    |Gasolinas, Óleo Dieses e|Tabela 4.3.11                              |01/2011  |         |
+|       |GLP                     |                                           |         |         |
+|404    |Veiculos                |Tabela 4.3.10                              |01/2011  |         |
+|405    |Autopeças               |Tabela 4.3.10                              |01/2011  |         |
+|406    |Pneus                   |Tabela 4.3.10                              |01/2011  |         |
+|407    |Bebidas Frias           |Tabela 4.3.11                              |01/2011  |         |
+|408    |Embalagens para bebidas |Tabela 4.3.11                              |01/2011  |         |
+|       |Frias                   |                                           |         |         |
+|409    |Artigos de Perfumaria   |Tabela 4.3.10                              |01/2011  |         |
+|       |                        |                                           |         |         |
+|999    |Revenda de Produtos     |-                    |0,00      |0,00      |01/2011  |31/12/201|
+|       |sujeitos à Substituição |                     |          |          |         |3        |
+|       |Tributária              |                     |          |          |         |         |
+
+
+OBS: Legislação de Referência:
+1. Grupo 100 - Cigarros e Cigarrilhas:
+Código  101: art. 3º da Lei Complementar nº 70, de 1991; art. 5º da Lei nº
+9.715, de 1998; art. 62 da Lei nº 11.196, de 2005.
+Código  102: art. 6º da Lei nº 12.402, de 2011.
+
+2. Grupo 200 - Motocicletas:
+Código 201: Art. 43 da MP nº 2.135-35, de 2001.
+
+3. Grupo 300 - Veículos, Autopeças e Pneus:
+Código 301: Art. 43 da MP nº 2.158-35, de 2001
+    - Tributação por substituição tributária até 13/05/2014.
+    - Tributação monofásica a partir de 14/05/2014, conforme arts. 103 e 119
+      da Lei nº 12.973/2014.
+
+4. Grupo 400 - Vendas à Zona Franca de Manaus:
+Códigos 401 e 402: Art. 64 da Lei nº 11.196/05;
+Códigos 403 e 408: Art. 65 da Lei nº 11.196/05.
+

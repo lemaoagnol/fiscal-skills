@@ -1,0 +1,65 @@
+
+
+4.3.15 - Tabela Operações sem Incidência da Contribuição Social (CST 08):
+Versão 1.02
+
+|Código |Descrição do Produto                           |NCM              |Início de |Término de|
+|       |                                               |                 |Escrituraç|Escrituraç|
+|       |                                               |                 |ão        |ão        |
+|       |                                               |                 |Mês/Ano   |Mês/Ano   |
+|100    |QUEROSENE DE AVIAÇÃO                           |                 |          |          |
+|101    |Venda de querosene de aviação por pessoa       |-                |01/2011   |          |
+|       |jurídica não enquadrada na condição de         |                 |          |          |
+|       |importadora ou produtora                       |                 |          |          |
+|102    |Venda de querosene de aviação por produtora ou |-                |01/2011   |          |
+|       |importadora a distribuidora, quando o produto  |                 |          |          |
+|       |for destinado ao consumo por aeronave em       |                 |          |          |
+|       |tráfego internacional                          |                 |          |          |
+|200    |BIODIESEL                                      |                 |          |          |
+|201    |Vendas de biodiesel por pessoas não enquadradas|-                |01/2011   |          |
+|       |como produtor ou importador                    |                 |          |          |
+|300    |ITAIPU BINACIONAL                              |                 |          |          |
+|301    |Vendas de materiais e equipamentos, bem assim  |-                |01/2011   |          |
+|       |da prestação de serviços decorrentes dessas    |                 |          |          |
+|       |operações, efetuadas diretamente a Itaipu      |                 |          |          |
+|       |Binacional                                     |                 |          |          |
+|400    |EXPORTAÇÃO                                     |                 |          |          |
+|401    |Exportação de mercadorias para o exterior      |-                |01/2011   |          |
+|402    |Serviços prestados a pessoas físicas ou        |-                |01/2011   |          |
+|       |jurídicas residentes ou domiciliadas no        |                 |          |          |
+|       |exterior, cujo pagamento represente ingresso de|                 |          |          |
+|       |divisas                                        |                 |          |          |
+|403    |Vendas, com o fim específico de exportação, a  |-                |01/2011   |          |
+|       |empresa comercial exportadora constituída nos  |                 |          |          |
+|       |termos do Decreto-Lei nº 1.248, de 29 de       |                 |          |          |
+|       |novembro de 1972, ou simplesmente registrada na|                 |          |          |
+|       |Secretaria de Comércio Exterior (Secex) do     |                 |          |          |
+|       |Ministério do Desenvolvimento, Indústria e     |                 |          |          |
+|       |Comércio Exterior                              |                 |          |          |
+|900    |DEMAIS RECEITAS SEM INCIDÊNCIA                 |                 |          |          |
+|901    |Regime Cumulativo - Demais receitas não        |-                |01/2011   |          |
+|       |classificadas como faturamento, não enquadradas|                 |          |          |
+|       |como receita bruta nos termos do art. 3º da Lei|                 |          |          |
+|       |nº 9.718, de 1998                              |                 |          |          |
+|902    |Receitas de venda de crédito de carbono, dos   |-                |12/2024   |          |
+|       |ativos CBE e  CRVEs.                           |                 |          |          |
+|999    |Outras receitas sem incidência                 |-                |01/2011   |          |
+
+OBS: Legislação de Referência:
+1. Grupo 100 - QUEROSENE DE AVIAÇÃO
+Código 101: art. 2º da Lei nº 10.560, de 2002
+Código 102: art. 3º da Lei nº 10.560, de 2002
+.
+2. Grupo 200 - BIODIESEL:
+Código 201: Art. 3º da Lei nº 11.116, de 2005
+
+3. Grupo 300 - ITAIPU BINACIONAL:
+Código 301: art. 43 do Decreto nº 4.524, de 2002
+
+4. Grupo 400 - EXPORTAÇÃO:
+Códigos 401 a 403: art. 6º da Lei nº 10.833, de 2003 e art. 5º da Lei
+10.637, de 2002
+
+5. Grupo 900 - DEMAIS RECEITAS SEM INCIDÊNCIA
+Código 901: art. 3º da Lei nº 9.718, de 1998
+Código 902: arts. 10, 17 e 19 da Lei nº 15.042, de 11 de dezembro de 2024.

@@ -1,0 +1,185 @@
+
+
+4.3.14 - Tabela Operações com Isenção da Contribuição Social (CST 07) -
+Atualizada em 28/04/2026:
+
+|Código |Descrição do Produto                           |NCM              |Início de |Término de|
+|       |                                               |                 |Escrituraç|Escrituraç|
+|       |                                               |                 |ão        |ão        |
+|       |                                               |                 |Mês/Ano   |Mês/Ano   |
+|100    |MERCADORIAS E SERVIÇOS                         |                 |          |          |
+|101    |Fornecimento de mercadorias ou serviços para   |-                |01/2011   |          |
+|       |uso ou consumo de bordo em embarcações e       |                 |          |          |
+|       |aeronaves em tráfego internacional, quando o   |                 |          |          |
+|       |pagamento for efetuado em moeda conversível    |                 |          |          |
+|       |(exceto querosene de aviação)                  |                 |          |          |
+|102    |Transporte internacional de cargas ou          |-                |01/2011   |          |
+|       |passageiros                                    |                 |          |          |
+|103    |Receitas auferidas pelos estaleiros navais     |-                |01/2011   |          |
+|       |brasileiros nas atividades de construção,      |                 |          |          |
+|       |conservação, modernização, conversão e reparo  |                 |          |          |
+|       |de embarcações pré-registradas ou registradas  |                 |          |          |
+|       |no Registro Especial Brasileiro (REB),         |                 |          |          |
+|       |instituído pela Lei nº 9.432, de 8 de janeiro  |                 |          |          |
+|       |de 1997                                        |                 |          |          |
+|104    |Frete de mercadorias transportadas entre o País|-                |01/2011   |          |
+|       |e o exterior pelas embarcações registradas no  |                 |          |          |
+|       |REB, de que trata o art. 11 da Lei nº 9.432, de|                 |          |          |
+|       |1997                                           |                 |          |          |
+|200    |ENTIDADES ESPECIAIS (COFINS)                   |                 |          |          |
+|201    |Receitas relativas às atividades próprias dos  |-                |01/2011   |          |
+|       |templos de qualquer culto; partidos políticos; |                 |          |          |
+|       |instituições de educação e de assistência      |                 |          |          |
+|       |social que preencham as condições e requisitos |                 |          |          |
+|       |do art. 12 da Lei nº 9.532, de 10 de dezembro  |                 |          |          |
+|       |de 1997; instituições de caráter filantrópico, |                 |          |          |
+|       |recreativo, cultural, científico e as          |                 |          |          |
+|       |associações, que preencham as condições e      |                 |          |          |
+|       |requisitos do art. 15 da Lei nº 9.532, de 1997;|                 |          |          |
+|       |sindicatos, federações e confederações;        |                 |          |          |
+|       |serviços sociais autônomos, criados ou         |                 |          |          |
+|       |autorizados por lei; conselhos de fiscalização |                 |          |          |
+|       |de profissões regulamentadas; fundações de     |                 |          |          |
+|       |direito privado; condomínios de proprietários  |                 |          |          |
+|       |de imóveis residenciais ou comerciais; e       |                 |          |          |
+|       |Organização das Cooperativas Brasileiras (OCB) |                 |          |          |
+|       |e as Organizações Estaduais de Cooperativas    |                 |          |          |
+|       |previstas no art. 105 e seu § 1º da Lei nº     |                 |          |          |
+|       |5.764, de 16 de dezembro de 1971.              |                 |          |          |
+|202    |Receitas das entidades beneficentes de         |-                |01/2011   |          |
+|       |assistência social com a finalidade de         |                 |          |          |
+|       |prestação de serviços nas áreas de assistência |                 |          |          |
+|       |social, saúde ou educação, que atendam aos     |                 |          |          |
+|       |requisitos do art. 29 da Lei nº 12.101, de 27  |                 |          |          |
+|       |de novembro de 2009.                           |                 |          |          |
+|300    |ITAIPU BINACIONAL                              |                 |          |          |
+|301    |Venda de energia elétrica pela Itaipu          |-                |01/2011   |          |
+|       |Binacional                                     |                 |          |          |
+|400    |COPA DAS CONFEDERAÇÕES FIFA 2013, COPA DO MUNDO|                 |          |          |
+|       |FIFA 2014, JOGOS OLÍMPICOS DE 2016 E JOGOS     |                 |          |          |
+|       |PARAOLÍMPICOS DE 2016                          |                 |          |          |
+|401    |Importação de bens ou mercadorias para uso ou  |-                |01/2011   |          |
+|       |consumo exclusivo na organização e realização  |                 |          |          |
+|       |dos referidos eventos, promovida pela Fifa,    |                 |          |          |
+|       |Subsidiária Fifa no Brasil, Confederações Fifa,|                 |          |          |
+|       |Associações estrangeiras membros da Fifa,      |                 |          |          |
+|       |Parceiros Comerciais da Fifa domiciliados no   |                 |          |          |
+|       |exterior, Emissora Fonte da Fifa e Prestadores |                 |          |          |
+|       |de Serviço da Fifa domiciliados no exterior, ou|                 |          |          |
+|       |por intermédio de pessoa jurídica por eles     |                 |          |          |
+|       |contratada para representá-los                 |                 |          |          |
+|402    |Receita auferida por Subsidiária Fifa no       |-                |01/2011   |          |
+|       |Brasil, decorrente das atividades próprias e   |                 |          |          |
+|       |diretamente vinculadas à organização ou        |                 |          |          |
+|       |realização dos referidos eventos, exceto as    |                 |          |          |
+|       |receitas decorrentes da venda de ingressos e de|                 |          |          |
+|       |pacotes de hospedagem.                         |                 |          |          |
+|403    |Receita das atividades próprias, auferida pelos|-                |01/2011   |          |
+|       |Prestadores de Serviços da FIFA, estabelecidos |                 |          |          |
+|       |no País sob a forma de sociedade com finalidade|                 |          |          |
+|       |específica para o desenvolvimento de atividades|                 |          |          |
+|       |diretamente relacionadas à realização dos      |                 |          |          |
+|       |eventos.                                       |                 |          |          |
+|404    |Importações de bens, mercadorias ou serviços   |                 |01/01/2013|31/12/2017|
+|       |para uso ou consumo exclusivo em atividades    |                 |          |          |
+|       |próprias e diretamente vinculadas à organização|                 |          |          |
+|       |ou realização dos Eventos Olímpicos de 2016,   |                 |          |          |
+|       |realizadas pelas entidades referidas no § 2º do|                 |          |          |
+|       |art. 4º, da Lei nº 12.780/2013.                |                 |          |          |
+|405    |Rendimentos, remessas e operações de câmbio e  |                 |01/01/2013|31/12/2017|
+|       |seguros, decorrentes das atividades próprias e |                 |          |          |
+|       |diretamente vinculadas à organização ou        |                 |          |          |
+|       |realização dos eventos olímpicos de 2016,      |                 |          |          |
+|       |envolvendo o CIO e as empresas a ele           |                 |          |          |
+|       |vinculadas.                                    |                 |          |          |
+|406    |Receitas e rendimentos auferidos pelas empresas|                 |01/01/2013|31/12/2017|
+|       |vinculadas ao CIO, e domiciliadas no Brasil, em|                 |          |          |
+|       |relação aos fatos geradores decorrentes das    |                 |          |          |
+|       |atividades próprias e diretamente vinculadas à |                 |          |          |
+|       |organização ou realização dos Eventos Olímpicos|                 |          |          |
+|       |de 2016.                                       |                 |          |          |
+|407    |Receitas, lucros e rendimentos auferidos pelo  |                 |01/01/2013|31/12/2017|
+|       |RIO 2016, em relação aos fatos geradores       |                 |          |          |
+|       |decorrentes das atividades próprias e          |                 |          |          |
+|       |diretamente vinculadas à organização ou        |                 |          |          |
+|       |realização do evento.                          |                 |          |          |
+|900    |DEMAIS RECEITAS COM ISENÇÃO                    |                 |          |          |
+|901    |Recursos recebidos a título de repasse,        |-                |01/2011   |          |
+|       |oriundos do Orçamento Geral da União, dos      |                 |          |          |
+|       |Estados, do Distrito Federal e dos Municípios, |                 |          |          |
+|       |pelas empresas públicas e sociedades de        |                 |          |          |
+|       |economia mista                                 |                 |          |          |
+|902    |Receita da instituição privada de ensino       |-                |01/2011   |          |
+|       |superior, com fins lucrativos ou sem fins      |                 |          |          |
+|       |lucrativos não beneficente, que aderir ao      |                 |          |          |
+|       |Programa Universidade para Todos (Prouni), no  |                 |          |          |
+|       |período de vigência do termo de adesão,        |                 |          |          |
+|       |decorrentes da realização de atividades de     |                 |          |          |
+|       |ensino superior, proveniente de cursos de      |                 |          |          |
+|       |graduação ou cursos seqüenciais de formação    |                 |          |          |
+|       |específica                                     |                 |          |          |
+|903    |Receita bruta de venda a varejo dos componentes|                 |09/2012   |12/2018   |
+|       |e equipamentos de rede, terminais e            |                 |          |          |
+|       |transceptores definidos em regulamento que     |                 |          |          |
+|       |sejam dedicados aos serviços de                |                 |          |          |
+|       |telecomunicações prestados por meio das        |                 |          |          |
+|       |subfaixas de radiofrequência de 451 MHz a 458  |                 |          |          |
+|       |MHz e de 461 MHz a 468 MHz, assim como por meio|                 |          |          |
+|       |de estações terrenas satelitais de pequeno     |                 |          |          |
+|       |porte que contribuam com os objetivos de       |                 |          |          |
+|       |implantação do PNBL                            |                 |          |          |
+|904    |Desperdícios, resíduos ou aparas de plástico,  |39.15, 47.07,    |23/04/2026|          |
+|       |de papel ou cartão, de vidro, de ferro ou aço, |70.01, 72.04,    |          |          |
+|       |de cobre, de níquel, de alumínio, de chumbo, de|74.04, 75.03,    |          |          |
+|       |zinco e de estanho, e demais desperdícios e    |76.02, 78.02,    |          |          |
+|       |resíduos metálicos do Capítulo 81 da Tipi,     |79.02, 80.02,    |          |          |
+|       |quando vendidos para pessoa jurídica que apure |81019700         |          |          |
+|       |o imposto de renda com base no lucro real e que|81029700,        |          |          |
+|       |utilize os referidos insumos como matéria-prima|81033000,        |          |          |
+|       |ou material secundário.                        |81042000,        |          |          |
+|       |                                               |81043000         |          |          |
+|       |                                               |81053000,        |          |          |
+|       |                                               |81060090         |          |          |
+|       |                                               |81073000,        |          |          |
+|       |                                               |81083000         |          |          |
+|       |                                               |81093000,        |          |          |
+|       |                                               |81102000         |          |          |
+|       |                                               |81110090,        |          |          |
+|       |                                               |81121300         |          |          |
+|       |                                               |81122200,        |          |          |
+|       |                                               |81125200         |          |          |
+|       |                                               |81129200,        |          |          |
+|       |                                               |81130090         |          |          |
+|999    |Código genérico - Operações com Isenção        |-                |01/2011   |          |
+
+OBS: Legislação de Referência:
+1. Grupo 100 - MERCADORIAS E SERVIÇOS
+Códigos 101 a 104: Medida Provisória nº 2.158-35, de 2001, art. 14
+
+2. Grupo 200 - ENTIDADES ESPECIAIS (COFINS)
+Código 201: Constituição Federal, art. 195, § 7º, e Medida Provisória nº
+2.158-35, de 2001, art. 13, art. 14, inciso X, e art. 17.
+Código 202: Lei nº 12.101, de 2009, art. 29
+
+3. Grupo 300 - ITAIPU BINACIONAL
+Código 301: Lei nº 10.925, de 2004, art. 14
+
+4. Grupo 400 - COPA DAS CONFEDERAÇÕES FIFA 2013 E COPA DO MUNDO FIFA 2014
+Código 401: Lei nº 12.350, de 2010, art. 3º
+Código 402: Lei nº 12.350, de 2010, art. 8º
+Código 403: Lei nº 12.350, de 2010, art. 9º
+Código 404: Lei nº 12.780, de 2013, art. 4º
+Código 405: Lei nº 12.780, de 2013, art. 8º
+Código 406: Lei nº 12.780, de 2013, art. 9º
+Código 407: Lei nº 12.780, de 2013, art. 10
+
+
+
+4. Grupo 900 - DEMAIS RECEITAS COM ISENÇÃO
+Código 901: Medida Provisória nº 2.158-35, de 2001, art. 14
+Código 902: Lei 11.096, de 2005, art. 8º e IN SRF Nº 456, de 2004
+Código 903: Lei nº 12.715, de 2012, art. 37
+Código 904: Lei nº 11.196/2005, art. 48, na redação dada pela Lei nº
+15.394, de 22/04/2026.
+
+
