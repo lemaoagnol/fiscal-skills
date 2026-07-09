@@ -1,0 +1,170 @@
+[
+  {
+    "codigo": "105",
+    "descricao": "Legumes de vagem secos em grão, arroz, farinhas/sêmolas",
+    "ncmPrefixos": ["07133319", "07133329", "07133399", "10062000", "10063000", "11062000"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2011-01",
+    "observacao": "Inclui arroz"
+  },
+  {
+    "codigo": "108",
+    "descricao": "Farinha/grumos/sêmolas de milho",
+    "ncmPrefixos": ["11022000", "11031300", "11041900"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2011-01",
+    "observacao": ""
+  },
+  {
+    "codigo": "110",
+    "descricao": "Leite fluido (pasteurizado/ultrapasteurizado-UHT/em pó/fermentado/bebidas e compostos lácteos/fórmulas infantis)",
+    "ncmPrefixos": ["0401", "0402"],
+    "fonteNcm": "inferido",
+    "vigenteDesde": "2011-01",
+    "observacao": "NCM não literal na tabela oficial (texto genérico \"leite fluido\"); inferido capítulo 04.01/04.02. IMPORTANTE: diferente da isenção de ICMS-SP (art. 43/103 Anexo I) que EXCLUI leite UHT longa-vida — aqui, no PIS/COFINS federal, o UHT ESTÁ incluído na alíquota zero. Não confundir os dois benefícios."
+  },
+  {
+    "codigo": "111",
+    "descricao": "Queijos (mussarela, minas, prato, coalho, ricota, requeijão, provolone, parmesão, fresco não maturado)",
+    "ncmPrefixos": ["0406"],
+    "fonteNcm": "inferido",
+    "vigenteDesde": "2011-01",
+    "observacao": "NCM não literal; inferido capítulo 04.06. Queijos não listados (ex: gorgonzola) podem não se enquadrar — confirmar tipo exato."
+  },
+  {
+    "codigo": "112",
+    "descricao": "Soro de leite fluido (uso industrial)",
+    "ncmPrefixos": ["0404"],
+    "fonteNcm": "inferido",
+    "vigenteDesde": "2011-01",
+    "observacao": "Uso industrial; raro em revenda direta de conveniência"
+  },
+  {
+    "codigo": "113",
+    "descricao": "Farinha de trigo",
+    "ncmPrefixos": ["11010010"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2011-01",
+    "observacao": ""
+  },
+  {
+    "codigo": "114",
+    "descricao": "Trigo (grão)",
+    "ncmPrefixos": ["1001"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2011-01",
+    "observacao": "Grão bruto; raro em revenda direta de conveniência"
+  },
+  {
+    "codigo": "115",
+    "descricao": "Pré-misturas para pão comum e pão comum",
+    "ncmPrefixos": ["19012000", "19059090"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2011-01",
+    "observacao": "Tem \"Ex 01\" (exceção tarifária específica dentro do NCM) — confirmar se o produto exato se enquadra"
+  },
+  {
+    "codigo": "116",
+    "descricao": "Produtos hortícolas e frutas in natura",
+    "ncmPrefixos": ["07", "08"],
+    "fonteNcm": "inferido",
+    "vigenteDesde": "2011-01",
+    "observacao": "Capítulos inteiros 7 e 8 (hortícolas e frutas frescas/in natura)"
+  },
+  {
+    "codigo": "117",
+    "descricao": "Ovos",
+    "ncmPrefixos": ["0407"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2011-01",
+    "observacao": ""
+  },
+  {
+    "codigo": "119",
+    "descricao": "Massas alimentícias não cozidas (posição 19.02)",
+    "ncmPrefixos": ["19021100", "19021900", "19022000", "19023000"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2011-12",
+    "observacao": ""
+  },
+  {
+    "codigo": "121",
+    "descricao": "Carnes bovina/suína/ovina/caprina/aves e produtos de origem animal",
+    "ncmPrefixos": ["0201", "0202", "02061000", "020620", "02102000", "05069000", "05100010", "15021010", "0203", "02063000", "020640", "0207", "0209", "02101000", "0204", "02068000"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2013-03",
+    "observacao": "Lista extensa por subitem (a/b/c no texto oficial) — ver 4.3.13 completo se precisar do código exato de um corte específico"
+  },
+  {
+    "codigo": "122",
+    "descricao": "Peixes (exceto ornamentais)",
+    "ncmPrefixos": ["0302", "0303", "0304"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2013-03",
+    "observacao": "Exceto NCM 0302.90.00 (peixes ornamentais)"
+  },
+  {
+    "codigo": "123",
+    "descricao": "Café (grão/moído/torrado e extrato/essência solúvel)",
+    "ncmPrefixos": ["0901", "21011"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2013-03",
+    "observacao": "Já confirmado nesta base (Lei 10.925/2004 art. 1º XXI) — ver tabela-produtos.md"
+  },
+  {
+    "codigo": "124",
+    "descricao": "Açúcar cristal/refinado/mascavo",
+    "ncmPrefixos": ["17011400", "17019900"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2013-03",
+    "observacao": "Já confirmado nesta base (Lei 12.839/2013) — ver tabela-produtos.md"
+  },
+  {
+    "codigo": "125",
+    "descricao": "Óleo de soja e outros óleos vegetais",
+    "ncmPrefixos": ["1507", "1508", "1509", "1510", "1511", "1512", "1513", "1514"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2013-03",
+    "observacao": ""
+  },
+  {
+    "codigo": "126",
+    "descricao": "Manteiga",
+    "ncmPrefixos": ["04051000"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2013-03",
+    "observacao": ""
+  },
+  {
+    "codigo": "127",
+    "descricao": "Margarina",
+    "ncmPrefixos": ["15171000"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2013-03",
+    "observacao": ""
+  },
+  {
+    "codigo": "128",
+    "descricao": "Sabão de toucador",
+    "ncmPrefixos": ["34011190"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2013-03",
+    "observacao": "Tem \"Ex 01\" (exceção tarifária específica) — confirmar produto exato"
+  },
+  {
+    "codigo": "129",
+    "descricao": "Produtos de higiene bucal/dentária",
+    "ncmPrefixos": ["3306"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2013-03",
+    "observacao": ""
+  },
+  {
+    "codigo": "130",
+    "descricao": "Papel higiênico",
+    "ncmPrefixos": ["48181000"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2013-03",
+    "observacao": ""
+  }
+]
