@@ -166,5 +166,21 @@
     "fonteNcm": "literal",
     "vigenteDesde": "2013-03",
     "observacao": ""
+  },
+  {
+    "codigo": "B1",
+    "descricao": "Bebidas frias não alcoólicas — águas minerais/artificiais/gaseificadas",
+    "ncmPrefixos": ["2201"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2011-01",
+    "observacao": "NÃO é benefício de cesta básica (Lei 10.925) — é regime MONOFÁSICO (tabela oficial 4.3.10/4.3.11, grupo 400 \"Bebidas Frias\"): o fabricante/distribuidor já recolhe PIS/COFINS concentrado numa etapa da cadeia, então a revenda no varejo é a alíquota zero. NCM 22.01 por definição só cobre bebidas NÃO alcoólicas (capítulo exclui bebidas com álcool)."
+  },
+  {
+    "codigo": "B2",
+    "descricao": "Bebidas frias não alcoólicas — refrigerantes, refrescos, isotônicos, energéticos, e preparações/concentrados para refrigerante",
+    "ncmPrefixos": ["2202", "21069010"],
+    "fonteNcm": "literal",
+    "vigenteDesde": "2011-01",
+    "observacao": "Mesma lógica monofásica do item B1 (tabela 4.3.10/4.3.11, grupo 400). Confirmado em 2026-07 contra cadastro real auditado (Imendes) pro NCM 2202.99.00 (energético) — CST PIS/COFINS 06 na saída, referência webPosto \"CSTSAI06/06|CSTENT 73/73\". NCM 22.02 por definição só cobre bebidas NÃO alcoólicas."
   }
 ]
