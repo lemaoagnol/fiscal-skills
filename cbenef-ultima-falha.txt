@@ -1,0 +1,2 @@
+2026-09-01
+WebFetch falhou: EGRESS_BLOCKED - acesso a portal.fazenda.sp.gov.br bloqueado pelo proxy de rede do ambiente
